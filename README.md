@@ -2,19 +2,31 @@
 
 A Cross Platform Quasar Application
 
+## :one: Use git terminal to clone the project
+```
+git clone https://github.com/Masterxhen/codestack-codeblooded.git
+```
+## :one: or [Download the project directly](https://github.com/Masterxhen/codestack-codeblooded/archive/master.zip)
+
+## Open the project in your favorite code editor
+
+## Configure the backend (firebase)
+[Show picture](./configuration.png)
+
+
 ## Install the dependencies
-```bash
+```
 yarn
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
+```
 quasar dev
 ```
 
 
 ### Build the app for production
-```bash
+```
 quasar build
 ```
 
