@@ -2,6 +2,9 @@
 
 A Cross Platform Quasar Application
 
+## Course Outline
+[View Presentation Here](https://drive.google.com/file/d/1YHJvO0FlgxG-LaOwAgeZ_x_7jD6VAwxw/view)
+
 ## :one: Use git terminal to clone the project
 ```
 git clone https://github.com/Masterxhen/codestack-codeblooded.git
