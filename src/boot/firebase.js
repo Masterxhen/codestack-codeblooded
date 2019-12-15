@@ -3,13 +3,13 @@ import Firebase from 'firebase/app'
 import 'firebase/firestore'
 import { firestorePlugin } from 'vuefire'
 const firebaseConfig = {
-  apiKey: "AIzaSyDpZYKqLHSdC8rftoz-kXco7NuvGXtnazc",
-  authDomain: "codestack-codeblooded.firebaseapp.com",
-  databaseURL: "https://codestack-codeblooded.firebaseio.com",
-  projectId: "codestack-codeblooded",
-  storageBucket: "codestack-codeblooded.appspot.com",
-  messagingSenderId: "172903677372",
-  appId: "1:172903677372:web:c7a3983982a89439c0ffb9"
+  apiKey: "YOUR-API",
+  authDomain: "YOUR-DOMAIN",
+  databaseURL: "YOUR-DB-URL",
+  projectId: "YOUR-PROJECT-NAME",
+  storageBucket: "YOUR-STORAGE-BUCKET",
+  messagingSenderId: "YOUR-MESSGAGING-ID",
+  appId: "YOUR-APPID"
 }
 Firebase.initializeApp(firebaseConfig)
 const db = Firebase.firestore()
